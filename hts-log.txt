@@ -1,0 +1,152 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 15 Dec 2022 14:38:44 at https://reactheme.com/products/wordpress/finbiz/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A250000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://reactheme.com/products/wordpress/finbiz/ -O1 "C:\My Web Sites\finbiz_1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:43:28	Error: 	"Not Found" (404) at link https://reactheme.com/products/wordpress/finbiz/error-page (from https://reactheme.com/products/wordpress/finbiz/)
+14:45:55	Error: 	"Not Found" (404) at link https://reactheme.com/products/wordpress/finbiz/blog-details.html (from https://reactheme.com/products/wordpress/finbiz/)
+14:46:23	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=1801
+14:46:23	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=1801 to https://reactheme.com/products/wordpress/finbiz/home-two/
+14:46:34	Error: 	"Not Found" (404) at link https://reactheme.com/products/wordpress/finbiz/home-two/blog-details.html (from https://reactheme.com/products/wordpress/finbiz/home-two/)
+14:46:45	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=3169
+14:46:45	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=3169 to https://reactheme.com/products/wordpress/finbiz/home-three/
+14:46:46	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=7096
+14:46:46	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=7096 to https://reactheme.com/products/wordpress/finbiz/insurance-home/
+14:46:48	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=7356
+14:46:48	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=7356 to https://reactheme.com/products/wordpress/finbiz/marketing-home/
+14:46:49	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=7801
+14:46:49	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=7801 to https://reactheme.com/products/wordpress/finbiz/finance-home/
+14:46:49	Error: 	"Not Found" (404) at link https://reactheme.com/products/wordpress/finbiz/finance-home/blog-details.html (from https://reactheme.com/products/wordpress/finbiz/finance-home/)
+14:46:50	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=6647
+14:46:50	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=6647 to https://reactheme.com/products/wordpress/finbiz/main-home-one-page/
+14:46:50	Error: 	"Not Found" (404) at link https://reactheme.com/products/wordpress/finbiz/main-home-one-page/blog-details.html (from https://reactheme.com/products/wordpress/finbiz/main-home-one-page/)
+14:46:50	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=6793
+14:46:50	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=6793 to https://reactheme.com/products/wordpress/finbiz/consulting-one-page/
+14:46:50	Error: 	"Not Found" (404) at link https://reactheme.com/products/wordpress/finbiz/consulting-one-page/blog-details.html (from https://reactheme.com/products/wordpress/finbiz/consulting-one-page/)
+14:46:50	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=6802
+14:46:50	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=6802 to https://reactheme.com/products/wordpress/finbiz/corporate-one-page/
+14:46:50	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=7316
+14:46:50	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=7316 to https://reactheme.com/products/wordpress/finbiz/insurance-one-page/
+14:46:50	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=7747
+14:46:50	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=7747 to https://reactheme.com/products/wordpress/finbiz/marketing-home-2/
+14:46:50	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=8199
+14:46:50	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=8199 to https://reactheme.com/products/wordpress/finbiz/finance-home-onepage/
+14:46:50	Error: 	"Not Found" (404) at link https://reactheme.com/products/wordpress/finbiz/finance-home-onepage/blog-details.html (from https://reactheme.com/products/wordpress/finbiz/finance-home-onepage/)
+14:46:50	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=35
+14:46:50	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=35 to https://reactheme.com/products/wordpress/finbiz/about-us/
+14:46:51	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=2878
+14:46:51	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=2878 to https://reactheme.com/products/wordpress/finbiz/our-services/
+14:46:51	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=6657
+14:46:51	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=6657 to https://reactheme.com/products/wordpress/finbiz/our-services/services-style-2/
+14:46:51	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=6678
+14:46:51	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=6678 to https://reactheme.com/products/wordpress/finbiz/our-services/services-style-1-2/
+14:46:51	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=6692
+14:46:51	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=6692 to https://reactheme.com/products/wordpress/finbiz/our-services/services-slider/
+14:46:51	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=2314
+14:46:51	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=2314 to https://reactheme.com/products/wordpress/finbiz/business-planning/
+14:46:52	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=5207
+14:46:52	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=5207 to https://reactheme.com/products/wordpress/finbiz/appointment/
+14:46:52	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=4839
+14:46:52	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=4839 to https://reactheme.com/products/wordpress/finbiz/price-plans/
+14:46:52	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=6652
+14:46:52	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=6652 to https://reactheme.com/products/wordpress/finbiz/our-services/services-style-1/
+14:46:52	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=6713
+14:46:52	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=6713 to https://reactheme.com/products/wordpress/finbiz/testimonial-style-1/
+14:46:52	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=5675
+14:46:52	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=5675 to https://reactheme.com/products/wordpress/finbiz/portfolio/
+14:46:59	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=6846
+14:46:59	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=6846 to https://reactheme.com/products/wordpress/finbiz/portfolio-2/
+14:46:59	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=6859
+14:46:59	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=6859 to https://reactheme.com/products/wordpress/finbiz/portfolio-style-3/
+14:46:59	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=6873
+14:46:59	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=6873 to https://reactheme.com/products/wordpress/finbiz/portfolio-style-4/
+14:46:59	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=6881
+14:46:59	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=6881 to https://reactheme.com/products/wordpress/finbiz/portfolio-style-5/
+14:46:59	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=1552
+14:46:59	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=1552 to https://reactheme.com/products/wordpress/finbiz/rt-portfolios/digital-startup-agency/
+14:46:59	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=1093
+14:46:59	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=1093 to https://reactheme.com/products/wordpress/finbiz/team/
+14:47:09	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=6907
+14:47:09	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=6907 to https://reactheme.com/products/wordpress/finbiz/team-style-2/
+14:47:09	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=6912
+14:47:09	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=6912 to https://reactheme.com/products/wordpress/finbiz/team-style-3/
+14:47:09	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=6921
+14:47:09	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=6921 to https://reactheme.com/products/wordpress/finbiz/team-style-4/
+14:47:09	Error: 	"Not Found" (404) at link https://reactheme.com/products/wordpress/finbiz/team-style-4/david@support.com (from https://reactheme.com/products/wordpress/finbiz/team-style-4/)
+14:47:09	Error: 	"Not Found" (404) at link https://reactheme.com/products/wordpress/finbiz/team-style-4/support@david.com (from https://reactheme.com/products/wordpress/finbiz/team-style-4/)
+14:47:09	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=6922
+14:47:09	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=6922 to https://reactheme.com/products/wordpress/finbiz/team-style-5/
+14:47:09	Error: 	"Not Found" (404) at link https://reactheme.com/products/wordpress/finbiz/team-style-5/david@support.com (from https://reactheme.com/products/wordpress/finbiz/team-style-5/)
+14:47:09	Error: 	"Not Found" (404) at link https://reactheme.com/products/wordpress/finbiz/team-style-5/support@david.com (from https://reactheme.com/products/wordpress/finbiz/team-style-5/)
+14:47:09	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=947
+14:47:09	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=947 to https://reactheme.com/products/wordpress/finbiz/teams/archer-graham/
+14:47:22	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=6938
+14:47:22	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=6938 to https://reactheme.com/products/wordpress/finbiz/blog-grid/
+14:47:25	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=1269
+14:47:25	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=1269 to https://reactheme.com/products/wordpress/finbiz/profitable-business-makes-your-profit/
+14:47:25	Error: 	"Method Not Allowed" (405) at link https://reactheme.com/products/wordpress/finbiz/xmlrpc.php (from https://reactheme.com/products/wordpress/finbiz/profitable-business-makes-your-profit/)
+14:47:25	Warning: 	Retry after error -4 (Connect Error) at link 192.168.0.235/finbiz/wp-content/uploads/2022/10/01-2.jpg (from https://reactheme.com/products/wordpress/finbiz/profitable-business-makes-your-profit/)
+14:47:25	Warning: 	Retry after error -4 (Connect Error) at link 192.168.0.235/finbiz/wp-content/uploads/2022/10/02.jpg (from https://reactheme.com/products/wordpress/finbiz/profitable-business-makes-your-profit/)
+14:47:26	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=37
+14:47:26	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=37 to https://reactheme.com/products/wordpress/finbiz/contact/
+14:47:47	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=1559
+14:47:47	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=1559 to https://reactheme.com/products/wordpress/finbiz/rt-portfolios/business-growth-check/
+14:47:47	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=948
+14:47:47	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=948 to https://reactheme.com/products/wordpress/finbiz/teams/alan-dosan/
+14:47:47	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=946
+14:47:47	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=946 to https://reactheme.com/products/wordpress/finbiz/teams/stive-stikollo/
+14:47:47	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=949
+14:47:47	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=949 to https://reactheme.com/products/wordpress/finbiz/teams/amelia-clover/
+14:47:47	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=1327
+14:47:47	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=1327 to https://reactheme.com/products/wordpress/finbiz/profitable-business-makes-your-profit-5/
+14:47:47	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=1328
+14:47:47	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=1328 to https://reactheme.com/products/wordpress/finbiz/profitable-business-makes-your-profit-4/
+14:47:47	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=1329
+14:47:47	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=1329 to https://reactheme.com/products/wordpress/finbiz/profitable-business-makes-your-profit-3/
+14:47:47	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=1326
+14:47:47	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=1326 to https://reactheme.com/products/wordpress/finbiz/profitable-business-makes-your-profit-2/
+14:47:47	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=4697
+14:47:47	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=4697 to https://reactheme.com/products/wordpress/finbiz/investment-strategy/
+14:47:47	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=4695
+14:47:47	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=4695 to https://reactheme.com/products/wordpress/finbiz/financial-advices/
+14:47:47	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=4693
+14:47:47	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=4693 to https://reactheme.com/products/wordpress/finbiz/strategy-growth/
+14:47:47	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=1558
+14:47:47	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=1558 to https://reactheme.com/products/wordpress/finbiz/rt-portfolios/business-growth-check-3/
+14:47:47	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=1557
+14:47:47	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=1557 to https://reactheme.com/products/wordpress/finbiz/rt-portfolios/business-growth-model/
+14:47:47	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=1556
+14:47:47	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=1556 to https://reactheme.com/products/wordpress/finbiz/rt-portfolios/strategy-growth-check/
+14:47:47	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=1555
+14:47:47	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=1555 to https://reactheme.com/products/wordpress/finbiz/rt-portfolios/marketing-solution/
+14:47:47	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=4691
+14:47:47	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=4691 to https://reactheme.com/products/wordpress/finbiz/tax-strategy/
+14:47:47	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=4853
+14:47:47	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=4853 to https://reactheme.com/products/wordpress/finbiz/market-research/
+14:47:47	Error: 	"Not Found" (404) at link https://reactheme.com/products/wordpress/finbiz/wp-content/uploads/2022/10/team-bg.jpg (from https://reactheme.com/products/wordpress/finbiz/wp-content/cache/autoptimize/css/autoptimize_single_a559b59bea14e117e44bcd2bdf094f71.css)
+14:47:47	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=1554
+14:47:47	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=1554 to https://reactheme.com/products/wordpress/finbiz/rt-portfolios/startup-business-growth/
+14:47:47	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=1553
+14:47:47	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=1553 to https://reactheme.com/products/wordpress/finbiz/rt-portfolios/our-business-growth/
+14:47:47	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=1467
+14:47:47	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=1467 to https://reactheme.com/products/wordpress/finbiz/rt-portfolios/agency-growth-check/
+14:47:47	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=950
+14:47:47	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=950 to https://reactheme.com/products/wordpress/finbiz/teams/beckett-hayden/
+14:47:47	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=819
+14:47:47	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=819 to https://reactheme.com/products/wordpress/finbiz/teams/julian-wyat/
+14:47:47	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=1151
+14:47:47	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=1151 to https://reactheme.com/products/wordpress/finbiz/teams/hake-mowana/
+14:47:47	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=1150
+14:47:47	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=1150 to https://reactheme.com/products/wordpress/finbiz/teams/oulian-miyako/
+14:47:47	Warning: 	Moved Permanently for https://reactheme.com/products/wordpress/finbiz/?p=6946
+14:47:47	Warning: 	File has moved from https://reactheme.com/products/wordpress/finbiz/?p=6946 to https://reactheme.com/products/wordpress/finbiz/profitable-business-makes-your-profit-5-2/
+14:47:47	Warning: 	Retry after error -4 (Connect Error) at link 192.168.0.235/finbiz/wp-content/uploads/2022/10/01-2.jpg (from https://reactheme.com/products/wordpress/finbiz/profitable-business-makes-your-profit/)
+14:47:47	Warning: 	Retry after error -4 (Connect Error) at link 192.168.0.235/finbiz/wp-content/uploads/2022/10/02.jpg (from https://reactheme.com/products/wordpress/finbiz/profitable-business-makes-your-profit/)
+14:48:08	Error: 	"Connect Error" (-4) after 2 retries at link 192.168.0.235/finbiz/wp-content/uploads/2022/10/01-2.jpg (from https://reactheme.com/products/wordpress/finbiz/profitable-business-makes-your-profit/)
+14:48:08	Error: 	"Connect Error" (-4) after 2 retries at link 192.168.0.235/finbiz/wp-content/uploads/2022/10/02.jpg (from https://reactheme.com/products/wordpress/finbiz/profitable-business-makes-your-profit/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 24 seconds : 750 links scanned, 669 files written (130631270 bytes overall) [28719579 bytes received at 50921 bytes/sec], 123414614 bytes transferred using HTTP compression in 540 files, ratio 15%, 7.3 requests per connection
+(15 errors, 126 warnings, 0 messages)
